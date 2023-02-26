@@ -1,6 +1,7 @@
 # Cplusplus-Program
 Summarize the project and what problem it was solving.
-- This project was a scenario to create a C++ program that read in a .txt file and output a reformatted version of the data to a user and saved that data to a new file.  
+- This project was a scenario to create a C++ program that read in a .txt file and output a reformatted version of the data to a user and saved that data to a new file. 
+
 What did you do particularly well?
 - I think the thing that I did well was writing the code in a clear and readable way that is easy to follow. 
  
